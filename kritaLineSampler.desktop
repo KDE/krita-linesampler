@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Line Sampling Filter
+Comment=Samples the image with randomly oriented lines
+ServiceTypes=Krita/Filter
+Type=Service
+X-KDE-Library=kritaLineSampler
+X-Krita-Version=2
