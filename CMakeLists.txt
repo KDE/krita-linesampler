@@ -1,3 +1,5 @@
+include_directories(${CMAKE_CURRENT_BINARY_DIR})
+
 set(kritaLineSampler_PART_SRCS
 LineSampler.cc LineSamplerConfig.cc LineSamplerWdg.cc     )
 
