@@ -61,4 +61,5 @@ void LineSamplerFilterConfig::SetColor(const QColor & val)
     }
 }
 
+#include "LineSamplerConfig.moc"
 

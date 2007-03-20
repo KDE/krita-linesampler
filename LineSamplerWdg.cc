@@ -75,3 +75,5 @@ void LineSamplerWdg::showEvent ( QShowEvent * )
 {
     setConfiguration(m_config);
 }
+
+#include "LineSamplerWdg.moc"
