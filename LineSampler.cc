@@ -71,7 +71,7 @@ KritaLineSampler::~KritaLineSampler()
 }
 
 KisLineSamplerFilter::KisLineSamplerFilter() 
-    : KisFilter(id(), "poisson", i18n("&LineSampler..."))
+    : KisFilter(id(), "linesampler", i18n("&LineSampler..."))
     , m_config(NULL)
 {
 
