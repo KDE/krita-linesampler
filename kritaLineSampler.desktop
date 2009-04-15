@@ -18,6 +18,7 @@ Name[uk]=Фільтр заповнення лініями
 Name[x-test]=xxLine Sampling Filterxx
 Comment=Samples the image with randomly oriented lines.
 Comment[et]=Tükeldab pilti juhusliku suunaga joontega.
+Comment[fr]=Échantillonne l'image avec des lignes orientées aléatoirement
 Comment[ga]=Sampláil an íomhá le línte randamacha.
 Comment[pt]=Tira uma amostra da imagem com linhas orientadas de forma aleatória.
 Comment[pt_BR]=Tira uma amostra da imagem com linhas orientadas de forma aleatória.
