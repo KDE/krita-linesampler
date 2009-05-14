@@ -24,6 +24,7 @@ Comment[ga]=Sampláil an íomhá le línte randamacha.
 Comment[pt]=Tira uma amostra da imagem com linhas orientadas de forma aleatória.
 Comment[pt_BR]=Tira uma amostra da imagem com linhas orientadas de forma aleatória.
 Comment[sv]=Samplar bilden med slumpmässigt orienterade linjer.
+Comment[tr]=Rastgele yönlü çizgilerle resmi örnekler.
 Comment[uk]=Вкриває зображення випадково орієнтованими лініями.
 Comment[x-test]=xxSamples the image with randomly oriented lines.xx
 ServiceTypes=Krita/Filter
